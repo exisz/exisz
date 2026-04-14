@@ -18,6 +18,7 @@ Open source CLIs designed for a world where AI agents ship your code.
 |---------|-------------|---------|
 | [**avercel**](https://github.com/exisz/avercel) | Vercel CLI wrapper — stops trailing newlines, blocks `vercel deploy`, audits env vars. Built-in AgentSkill. | `npm i -g avercel` |
 | [**lazyjira**](https://github.com/exisz/lazyjira) | Zero-dependency CLI for Jira Cloud. Like lazygit, but for Jira. | `pip install lazyjira` |
+| [**agentbase**](https://github.com/exisz/agentbase) | Agentic Database that supports markdown and trello | `npm i -g @exisz/agentbase` |
 
 ### 💡 Philosophy
 
