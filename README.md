@@ -19,7 +19,7 @@
 
 ### 💡 Philosophy
 
-- **Fix the stupid bugs first** — trailing newlines in env vars shouldn't cost you 45 minutes
+- **Agent-first** — the world of coding is now centric around agents and we have to build tools for this pattern. I am open-sourcing the tools that I have built in this flavor.
 - **Wrap, don't replace** — extend tools you already use instead of building from scratch
 - **Zero dependencies** when possible — less bloat, more reliability
 - **CLI first** — if it can't be done from a terminal, it's not done
