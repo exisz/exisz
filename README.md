@@ -24,6 +24,7 @@ Open source CLIs designed for a world where AI agents ship your code.
 | [**lazyjira**](https://github.com/exisz/lazyjira) | Zero-dependency CLI for Jira Cloud. Like lazygit, but for Jira. | `pip install lazyjira` |
 | [**agentbase**](https://github.com/exisz/agentbase) | Agentic Database that supports markdown and trello | `npm i -g @exisz/agentbase` |
 | [**cronology**](https://github.com/exisz/cronology) | Ephemeral task watcher service. | `npm i -g cronology` |
+| [**agentrealm**](https://github.com/exisz/agentrealm) | Agentless sandbox workspaces for AI agents. Bundles realm context into one prompt. | `npm i -g agentrealm` |
 <!-- PROJECTS:END -->
 
 ### 💡 Philosophy
