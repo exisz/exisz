@@ -25,6 +25,7 @@ Open source CLIs designed for a world where AI agents ship your code.
 | [**agentbase**](https://github.com/exisz/agentbase) | Agentic Database that supports markdown and trello | `npm i -g @exisz/agentbase` |
 | [**cronology**](https://github.com/exisz/cronology) | Ephemeral task watcher service. | `npm i -g cronology` |
 | [**agentrealm**](https://github.com/exisz/agentrealm) | Agentless sandbox workspaces for AI agents. Bundles realm context into one prompt. | `npm i -g agentrealm` |
+| [**clawdius**](https://github.com/exisz/clawdius) | Another claw-like. | `npm i -g clawdius` |
 <!-- PROJECTS:END -->
 
 ### 💡 Philosophy
