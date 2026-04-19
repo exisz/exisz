@@ -26,6 +26,7 @@ Open source CLIs designed for a world where AI agents ship your code.
 | [**cronology**](https://github.com/exisz/cronology) | Ephemeral task watcher service. | `npm i -g cronology` |
 | [**agentrealm**](https://github.com/exisz/agentrealm) | Agentless sandbox workspaces for AI agents. Bundles realm context into one prompt. | `npm i -g agentrealm` |
 | [**clawdius**](https://github.com/exisz/clawdius) | Another claw-like. | `npm i -g clawdius` |
+| [**dr-agent**](https://github.com/exisz/dr-agent) | Doctor for AI agent codebases — catches common pitfalls before they cost you days | `npm i -g dr-agent` |
 <!-- PROJECTS:END -->
 
 ### 💡 Philosophy
