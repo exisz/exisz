@@ -1,0 +1,7 @@
+id: dna://repo/exisz-exisz
+type: repo
+title: exisz-profile — GitHub profile README
+description: GitHub profile repository for exisz.
+homepage: https://github.com/exisz/exisz
+status: active
+managed_by: dna://agent/nebula
