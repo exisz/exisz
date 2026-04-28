@@ -27,6 +27,7 @@ Open source CLIs designed for a world where AI agents ship your code.
 | [**agentrealm**](https://github.com/exisz/agentrealm) | Agentless sandbox workspaces for AI agents. Bundles realm context into one prompt. | `npm i -g agentrealm` |
 | [**clawdius**](https://github.com/exisz/clawdius) | Another claw-like. | `npm i -g clawdius` |
 | [**dr-agent**](https://github.com/exisz/dr-agent) | Doctor for AI agent codebases — catches common pitfalls before they cost you days | `npm i -g dr-agent` |
+| [**IsItStable**](https://isitstable.com) | Community-driven stability verdicts for npm packages. Is this version gonna ruin your weekend? | [isitstable.com](https://isitstable.com) |
 <!-- PROJECTS:END -->
 
 ### 💡 Philosophy
