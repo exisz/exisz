@@ -20,6 +20,7 @@ Open source CLIs designed for a world where AI agents ship your code.
 | [**agentic-dna**](https://github.com/exisz/agentic-dna) | Governance and knowledge system for AI agent fleets. | `npm i -g agentic-dna` |
 | [**openclaw-extensions**](https://github.com/exisz/openclaw-extensions) | CLI utilities for OpenClaw — cron frequency, adaptive scheduling. | `npm i -g openclaw-extensions` |
 | [**agent-git**](https://github.com/exisz/agent-git) | Git wrapper that tracks cloned repos and prevents duplicate clones. | `brew install exisz/tap/agent-git` |
+| [**roblocks**](https://github.com/exisz/roblocks) | Git-backed credential vault for distributed agents and small teams. | `npm i -g roblocks` |
 | [**avercel**](https://github.com/exisz/avercel) | Vercel CLI wrapper — stops trailing newlines, blocks `vercel deploy`, audits env vars. Built-in AgentSkill. | `npm i -g avercel` |
 | [**lazyjira**](https://github.com/exisz/lazyjira) | Zero-dependency CLI for Jira Cloud. Like lazygit, but for Jira. | `pip install lazyjira` |
 | [**agentbase**](https://github.com/exisz/agentbase) | Agentic Database that supports markdown and trello | `npm i -g @exisz/agentbase` |
